@@ -8,6 +8,7 @@ class Task {
   final DateTime? updatedAt;
   final DateTime? completedAt;
   final String? parentId;
+  int order;
 
   Task({
     required this.id,
@@ -17,5 +18,6 @@ class Task {
     this.updatedAt,
     this.completedAt,
     this.parentId,
+    this.order = 0,
   }) : createdAt = createdAt ?? DateTime.now();
 }

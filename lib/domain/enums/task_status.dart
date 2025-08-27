@@ -1,1 +1,1 @@
-enum TaskStatus { todo, done, skipped, archived }
+enum TaskStatus { todo, done, completed }
