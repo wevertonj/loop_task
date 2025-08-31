@@ -1,6 +1,6 @@
 # Loop Task
 
-O projeto está sendo desenvolvido como uma solução para a execução de tarefas domésticas. Por ter esta característica de sempre ter que voltar a fazê-las novamente, o Loop Task sempre traz a tarefa de volta para a lista.
+Um projeto pessoal criado para atender a necessidade de execução de tarefas que sempre precisam voltar a ser executadas. Todo o conceito gira em torno de ao concluir uma tarefa, ela volta para o final da lista como uma nova tarefa.
 
 ## 📋 Características Principais
 
