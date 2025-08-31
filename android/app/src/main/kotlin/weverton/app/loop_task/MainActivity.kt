@@ -1,4 +1,4 @@
-package weverton.app.loop_task
+package app.weverton.looptask
 
 import io.flutter.embedding.android.FlutterActivity
 
